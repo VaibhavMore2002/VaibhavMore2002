@@ -49,7 +49,7 @@
 </span>
 
 <hr>
-### 👨‍💻 Hackathon Projects
+👨‍💻 Hackathon Projects
 <table align="center">
     <tr align="center">
       <th>Members</th>
@@ -69,13 +69,25 @@
  
 <hr> 
 
-### Side Projects
-  <table>
+Side Projects
+  <table align="center">
     <tr align="center">
       <th></th>
       <th>Name</th>
       <th>Description</th>
       <th>Page</th>
+    </tr>
+    <tr>
+      <td>🧑‍🎓</td>
+      <td>Student Attendance Using QR Code</td>
+      <td>A Maven Web Project Which Was Built Using Apache Netbeans IDE. It was built using JAVA, Java Server Pages(JSP), Servlets, HTML, CSS, Bootstrap, Database: Apache MySQl and JavaScript was used to add validations. To Generate and Read QR codes google.zxing library was used and smtp protocol was used to send emails.</td>
+      <td align="center"><a href="https://github.com/VaibhavMore2002/Student_Attendance_Using_QR_Code">Student Attendance Using QR code</a></td>
+    </tr>
+    <tr>
+      <td>🖼️</td>
+      <td>Pic-Fusion</td>
+      <td>It is an Image Generative AI tool which uses cloudinary API.</td>
+      <td align="center"><a href="https://pic-fusion.vercel.app/">https://pic-fusion.vercel.app/</a></td>
     </tr>
     <tr>
       <td>🤖</td>
