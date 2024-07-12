@@ -50,7 +50,7 @@
 
 <hr>
 
-### 👨‍💻 [Hackathon](https://devpost.com/nisoojadhav) Projects
+### 👨‍💻 [Hackathon]() Projects
   <table align="center">
     <tr align="center">
       <th>Members</th>
