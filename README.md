@@ -1,6 +1,4 @@
-<body>
-<div align="center">
-# Hi 👋 I'm [Vaibhav](https://www.linkedin.com/in/vaibhavnm/)! ✨
+<h1 align="center" src="https://www.linkedin.com/in/vaibhavnm/">Hi 👋, I'm Vaibhav More</h1>
 <h3 align="center">A passionate student interested in development and learning from India.</h3>
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavmore2002&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavmore2002" /> </p>
@@ -47,4 +45,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=vaibhavmore2002&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=0f172a&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" width="400" height="160"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavmore2002&stroke=0f172a&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=0f172a&currStreakLabel=3382ed&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" width="400" height="160" /></a>
 </span>
-</body>
