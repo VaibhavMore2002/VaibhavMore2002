@@ -3,17 +3,17 @@
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavmore2002&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavmore2002" /> </p>
 
-- 🌱 I’m currently learning **Data Science.**
+- 🌱 I’m currently learning **Data Science**.
 
-- 👯 I’m looking to collaborate on **Student Attendance Using QR Code**
+- 👯 I’m looking to collaborate on **Student Attendance Using QR Code**.
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/VaibhavMore2002)
+- 👨‍💻 All of my projects are available at [GitHub.](https://github.com/VaibhavMore2002)
 
-- 💬 Ask me about **Python,Cryptocurrency/CryptoMarket,Leetcode & DSA.**
+- 💬 Ask me about **Python,Cryptocurrency/CryptoMarket, Leetcode & DSA**.
 
-- 📫 How to reach me **venotronhyper@gmail.com**
+- 📫 How to reach me **venotronhyper@gmail.com**.
 
-- 📄 Know about my experiences, this is my [Resume](https://drive.google.com/file/d/18ghLNk9vmPw9ZA34mK5M-vjIiUE1od4Q/view?usp=sharing)
+- 📄 Know about my experiences, this is my [Resume.](https://drive.google.com/file/d/18ghLNk9vmPw9ZA34mK5M-vjIiUE1od4Q/view?usp=sharing)
 
 - ⚡ Fun fact **I think programming is funny.**
 
@@ -30,13 +30,13 @@
 ### Skills
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,php,mysql,mongodb,express,react,nodejs,tailwind,opencv" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,mysql,mongodb,react,python,tailwind,flask,java,reactnative" />
 </p>
 
 ### Tools
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,postman,vercel,netlify,figma" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,aws,vercel,netlify," />
 </p>
 
 <hr>
