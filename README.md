@@ -5,7 +5,7 @@
   
 # Hi 👋 I'm [Vaibhav](https://www.linkedin.com/in/vaibhavnm/)! ✨
     
-### A Full Stack Web Enthusiast<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+### A Python Developer Enthusiast<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 
   ✉️  You can contact me at [venotronhyper@gmail.com](mailto:venotronhyper@gmail.com)<br>
   🔎  You can find me as **@Vaibhav_2002** on most social sites<br>
@@ -13,7 +13,7 @@
   🤝  I'm open to collaborating on Python Work<br>
   ❓   Ask me about Web Development, Cryptocurrency/Cryptomarkets, and DSA Leetcode.<br>
 
-<!--   ![](https://komarev.com/ghpvc/?username=nisoojadhav&style=for-the-badge) -->
+<!--   ![](https://komarev.com/ghpvc/?username=VaibhavMore2002&style=for-the-badge) -->
 <hr>
 
 ### Skills
@@ -25,7 +25,7 @@
 ### Tools
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,vercel,netlify,canva" />
+    <img src="https://skillicons.dev/icons?i=eclipse,linux,vscode,git,github,vercel,netlify,canva" />
 </p>
 
 <hr>
