@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I think programming is funny.**
 
-<h3 align="center">Connect with me:</h3>
+### Connect with me 
 <p align="center">
 <a href="https://linkedin.com/in/vaibhavnm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhavnm" height="30" width="40" /></a>
 <a href="https://instagram.com/vaibhavv_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaibhavv_2002" height="30" width="40" /></a>
@@ -49,7 +49,8 @@
 </span>
 
 <hr>
-👨‍💻 Hackathon Projects
+
+### Hackathon Projects
 <table align="center">
     <tr align="center">
       <th>Members</th>
@@ -69,7 +70,7 @@
  
 <hr> 
 
-Side Projects
+### Side Projects
   <table align="center">
     <tr align="center">
       <th></th>
