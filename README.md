@@ -49,7 +49,6 @@
 </span>
 
 <hr>
----
 ### 👨‍💻 Hackathon Projects
 <table align="center">
     <tr align="center">
@@ -69,7 +68,7 @@
 </table>
  
 <hr> 
----
+
 ### Side Projects
   <table>
     <tr align="center">
@@ -79,9 +78,15 @@
       <th>Page</th>
     </tr>
     <tr>
-      <td>✅</td>
-      <td>React-ToDo</td>
-      <td>React To-Dos App</td>
-      <td align="center"><a href="https://react-todo-nj.vercel.app/">https://react-todo-nj.vercel.app/</a></td>
+      <td>🤖</td>
+      <td>Voice powered AI Assistant.</td>
+      <td>AI Assistant using tkinter.</td>
+      <td align="center"><a href="https://github.com/VaibhavMore2002/Swaadhin-My-Laptop-Assistant">Swaadhin AI Assistant</a></td>
+    </tr>
+    <tr>
+      <td>📙</td>
+      <td>TextReact.</td>
+      <td>Change or edit text.</td>
+      <td align="center"><a href="https://textreact.netlify.app/">https://textreact.netlify.app/</a></td>
     </tr>
   </table>
