@@ -5,7 +5,7 @@
   
 # Hi 👋 I'm [Vaibhav](https://www.linkedin.com/in/vaibhavnm/)! ✨
     
-### A Python Developer Enthusiast<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+### A Python Developer and learning enthusiast<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 
   ✉️  You can contact me at [venotronhyper@gmail.com](mailto:venotronhyper@gmail.com)<br>
   🔎  You can find me as **@Vaibhav_2002** on most social sites<br>
