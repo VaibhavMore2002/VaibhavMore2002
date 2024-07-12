@@ -99,7 +99,7 @@
     <tr>
       <td>📙</td>
       <td>TextReact</td>
-      <td>Format text,Change or edit text.</td>
+      <td>Format text, change or edit text.</td>
       <td align="center"><a href="https://textreact.netlify.app/">https://textreact.netlify.app/</a></td>
     </tr>
   </table>
