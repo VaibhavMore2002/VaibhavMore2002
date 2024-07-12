@@ -70,7 +70,7 @@
  
 <hr> 
 
-### Side Projects
+### My Projects
   <table align="center">
     <tr align="center">
       <th></th>
