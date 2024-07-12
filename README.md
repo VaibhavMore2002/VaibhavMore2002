@@ -86,19 +86,19 @@ Side Projects
     <tr>
       <td>🖼️</td>
       <td>Pic-Fusion</td>
-      <td>It is an Image Generative AI tool which uses cloudinary API.</td>
+      <td>A Generative AI tool to perform operations on images and generate images which uses cloudinary API, Stripe Payment Gateway, Clerk Authentication.</td>
       <td align="center"><a href="https://pic-fusion.vercel.app/">https://pic-fusion.vercel.app/</a></td>
     </tr>
     <tr>
       <td>🤖</td>
       <td>Voice powered AI Assistant.</td>
-      <td>AI Assistant using tkinter.</td>
+      <td>AI Assistant using tkinter,pyttsx3,speech_recognition. This is a python chatbot which can run on your desktop. I have given her name swaadhin. She can perform any task on your voice command. There can be some commands which I have not yet added but after learning how it works you can make the necessary changes in the code and make it work.</td>
       <td align="center"><a href="https://github.com/VaibhavMore2002/Swaadhin-My-Laptop-Assistant">Swaadhin AI Assistant</a></td>
     </tr>
     <tr>
       <td>📙</td>
       <td>TextReact.</td>
-      <td>Change or edit text.</td>
+      <td>Format text,Change or edit text.</td>
       <td align="center"><a href="https://textreact.netlify.app/">https://textreact.netlify.app/</a></td>
     </tr>
   </table>
