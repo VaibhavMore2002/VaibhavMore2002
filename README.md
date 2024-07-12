@@ -49,9 +49,9 @@
 </span>
 
 <hr>
-
-### 👨‍💻 [Hackathon]() Projects
-  <table align="center">
+---
+### 👨‍💻 Hackathon Projects
+<table align="center">
     <tr align="center">
       <th>Members</th>
       <th>Hackathon</th>
@@ -66,4 +66,22 @@
         </a>
       </td>
     </tr>
- </table>
+</table>
+ 
+<hr> 
+---
+### Side Projects
+  <table>
+    <tr align="center">
+      <th></th>
+      <th>Name</th>
+      <th>Description</th>
+      <th>Page</th>
+    </tr>
+    <tr>
+      <td>✅</td>
+      <td>React-ToDo</td>
+      <td>React To-Dos App</td>
+      <td align="center"><a href="https://react-todo-nj.vercel.app/">https://react-todo-nj.vercel.app/</a></td>
+    </tr>
+  </table>
