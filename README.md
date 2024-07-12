@@ -92,13 +92,13 @@
     </tr>
     <tr>
       <td>🤖</td>
-      <td>Voice powered AI Assistant.</td>
+      <td>Voice powered AI Assistant</td>
       <td>AI Assistant using tkinter,pyttsx3,speech_recognition. This is a python chatbot which can run on your desktop. I have given her name swaadhin. She can perform any task on your voice command. There can be some commands which I have not yet added but after learning how it works you can make the necessary changes in the code and make it work.</td>
       <td align="center"><a href="https://github.com/VaibhavMore2002/Swaadhin-My-Laptop-Assistant">Swaadhin AI Assistant</a></td>
     </tr>
     <tr>
       <td>📙</td>
-      <td>TextReact.</td>
+      <td>TextReact</td>
       <td>Format text,Change or edit text.</td>
       <td align="center"><a href="https://textreact.netlify.app/">https://textreact.netlify.app/</a></td>
     </tr>
