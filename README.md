@@ -30,7 +30,7 @@
 ### Skills
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,mysql,mongodb,react,python,tailwind,flask,java,reactnative" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,mysql,mongodb,react,python,tailwind,flask,java,native," />
 </p>
 
 ### Tools
@@ -43,7 +43,7 @@
 
 ### GitHub Stats
 <span align="center">
-<a href="http://www.github.com/nisoojadhav">
-<img src="https://github-readme-stats.vercel.app/api?username=nisoojadhav&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=0f172a&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" width="400" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nisoojadhav&stroke=0f172a&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=0f172a&currStreakLabel=3382ed&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" width="400" height="160" /></a>
+<a href="http://www.github.com/VaibhavMore2002">
+<img src="https://github-readme-stats.vercel.app/api?username=VaibhavMore2002&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=0f172a&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" width="400" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavMore2002&stroke=0f172a&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=0f172a&currStreakLabel=3382ed&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" width="400" height="160" /></a>
 </span>
