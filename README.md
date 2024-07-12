@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **venotronhyper@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18ghLNk9vmPw9ZA34mK5M-vjIiUE1od4Q/view?usp=sharing)
+- 📄 Know about my experiences, this is my [Resume](https://drive.google.com/file/d/18ghLNk9vmPw9ZA34mK5M-vjIiUE1od4Q/view?usp=sharing)
 
 - ⚡ Fun fact **I think programming is funny.**
 
