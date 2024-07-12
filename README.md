@@ -30,7 +30,7 @@
 ### Skills
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,,python,flask,java,mysql,mongodb,tableau,pandas,seaborn," />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,,python,flask,java,mysql,mongodb,pandas" />
 </p>
 
 ### Tools
