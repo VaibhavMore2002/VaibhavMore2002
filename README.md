@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub.](https://github.com/VaibhavMore2002)
 
-- 💬 Ask me about **Python,Cryptocurrency/CryptoMarket, Leetcode & DSA**.
+- 💬 Ask me about **Python, Cryptocurrency/CryptoMarket, Leetcode & DSA**.
 
 - 📫 How to reach me **venotronhyper@gmail.com**.
 
@@ -47,3 +47,20 @@
 <img src="https://github-readme-stats.vercel.app/api?username=VaibhavMore2002&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=0f172a&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" width="400" height="160" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavMore2002&stroke=0f172a&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=0f172a&currStreakLabel=3382ed&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" width="400" height="160" /></a>
 </span>
+### 👨‍💻 [Hackathon](https://devpost.com/VaibhavMore2002) Projects
+  <table align="center">
+    <tr align="center">
+      <th>Members</th>
+      <th>Hackathon</th>
+      <th>Product</th>
+    </tr>
+    <tr align="center">
+      <td>6 members</td>
+      <td> <img src="https://github.com/NisooJadhav/NisooJadhav/assets/68807845/ed70e8d0-7a4e-4981-8994-7b933521b802" height="80" /> </td>
+      <td> 
+        <a href="https://www.youtube.com/watch?v=uHHmKD_PSOc" target="_blank">
+          <img src="https://img.youtube.com/vi/uHHmKD_PSOc/0.jpg" height="80" />
+        </a>
+      </td>
+    </tr>
+ </table>
