@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **morevaibhav545@gmail.com**.
 
-- 📄 Know about my experiences, this is my [Resume.](https://drive.google.com/file/d/18ghLNk9vmPw9ZA34mK5M-vjIiUE1od4Q/view?usp=sharing)
+- 📄 Know about my experiences, this is my [Resume.](https://drive.google.com/file/d/1Lq0nMFzWGrP1QTs2RfnPXFEpfqEsHJvl/view?usp=sharing)
 
 - ⚡ Fun fact **I think programming is funny.**
 
