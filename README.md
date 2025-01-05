@@ -3,9 +3,7 @@
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavmore2002&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavmore2002" /> </p>
 
-- 🌱 I’m currently learning **Data Science**.
-
-- 👯 I’m looking to collaborate on **Student Attendance Using QR Code**.
+- 🌱 I’m currently learning.
 
 - 👨‍💻 All of my projects are available at [GitHub.](https://github.com/VaibhavMore2002)
 
