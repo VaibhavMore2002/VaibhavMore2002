@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub.](https://github.com/VaibhavMore2002)
 
-- 💬 Ask me about **Python, Cryptocurrency/CryptoMarket, Leetcode & DSA**.
+- 💬 Ask me about **Anything, let's share our knowledge together**.
 
 - 📫 How to reach me **morevaibhav545@gmail.com**.
 
