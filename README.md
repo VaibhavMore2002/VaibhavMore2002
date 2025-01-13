@@ -28,7 +28,7 @@
 ### Skills
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,python,flask,java,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,python,flask,java,mysql,mongodb,snowflake" />
 </p>
 
 ### Tools
