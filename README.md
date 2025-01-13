@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1Lq0nMFzWGrP1QTs2RfnPXFEpfqEsHJvl/view?usp=sharing)
 
-- ⚡ Fun fact: **I think programming is funny.**
+- ⚡ Fun fact: **I think AI is going to take our jobs.**
 
 ### Connect with me here:
 <p align="center">
@@ -52,8 +52,16 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vaibhavmore2002&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavmore2002&theme=default&hide_border=false)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=vaibhavmore2002&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavmore2002&theme=default&hide_border=false" alt="GitHub Streak Stats">
+    </td>
+  </tr>
+</table>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vaibhavmore2002&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
