@@ -25,7 +25,7 @@
 
 <hr>
 
-### Languages and Tools
+### 👨‍💻Languages and Tools
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -51,7 +51,7 @@
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-# 📊 GitHub Stats:
+### 📈GitHub Stats:
 <table>
   <tr>
     <td>
@@ -63,7 +63,7 @@
   </tr>
 </table>
 
-## 🏆 GitHub Trophies
+### 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vaibhavmore2002&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ---
