@@ -25,26 +25,15 @@
 
 <hr>
 
-### Skills
-
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,python,flask,java,mysql,mongodb,snowflake" />
-</p>
-
-### Tools
-
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,aws,vercel,netlify," />
-</p>
-
-<hr>
+### Languages and Tools
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 ### GitHub Stats
-<span align="center">
-<a href="http://www.github.com/VaibhavMore2002">
-<img src="https://github-readme-stats.vercel.app/api?username=VaibhavMore2002&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=0f172a&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" width="400" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavMore2002&stroke=0f172a&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=0f172a&currStreakLabel=3382ed&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" width="400" height="160" /></a>
-</span>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavmore2002&show_icons=true&locale=en&layout=compact" alt="vaibhavmore2002" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavmore2002&show_icons=true&locale=en" alt="vaibhavmore2002" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavmore2002&" alt="vaibhavmore2002" /></p>
 
 <hr>
 
