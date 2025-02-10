@@ -100,9 +100,9 @@
     </tr>
     <tr>
       <td>📶</td>
-      <td>TARA(Task Assignment And Review Application)</td>
+      <td>TARA</td>
       <td>A project which was developed for the company InnoSquares to track employee performances using statistics and data to assign tasks to the user and help the company to improve task performances for each employee and also manage their projects. It was developed using React, Node.js, Snowflake, Express.</td>
-      <td align="center"><a href="http://tara.innosquares.com/">Toloka Dashboard</a></td>
+      <td align="center"><a href="http://tara.innosquares.com/">Task Assignment And Review Application</a></td>
     </tr>
     <tr>
       <td>📒</td>
