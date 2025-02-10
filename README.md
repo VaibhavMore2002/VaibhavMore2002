@@ -100,15 +100,15 @@
     </tr>
     <tr>
       <td>📶</td>
-      <td>Toloka Dashboard</td>
+      <td>TARA(Task Assignment And Review Application)</td>
       <td>A project which was developed for the company InnoSquares to track employee performances using statistics and data to assign tasks to the user and help the company to improve task performances for each employee and also manage their projects. It was developed using React, Node.js, Snowflake, Express.</td>
-      <td align="center"><a href="https://github.com/VaibhavMore2002/toloka">Toloka Dashboard</a></td>
+      <td align="center"><a href="http://tara.innosquares.com/">Toloka Dashboard</a></td>
     </tr>
     <tr>
       <td>📒</td>
       <td>Project Management</td>
       <td>A project which was developed for the company InnoSquares to track, add and manage their projects, it is similar to JIRA and has all necessary features for managing projects. It was developed using React, Node.js, Snowflake, Express.</td>
-      <td align="center"><a href="https://github.com/VaibhavMore2002/toloka">Toloka Dashboard</a></td>
+      <td align="center"><a href="http://tara.innosquares.com/project-management">Project Management</a></td>
     </tr>
     <tr>
       <td>🖇️</td>
