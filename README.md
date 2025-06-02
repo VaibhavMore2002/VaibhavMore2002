@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **morevaibhav545@gmail.com**.
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1Lq0nMFzWGrP1QTs2RfnPXFEpfqEsHJvl/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1PYvUmLrCzOGNyE_mwoYtitYnMDBEcV3i/view?usp=sharing)
 
 - ⚡ Fun fact: **I think AI is going to take our jobs.**
 
