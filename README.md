@@ -100,6 +100,13 @@
     </tr>
     <tr>
       <td>📶</td>
+      <td>BizSavvy</td>
+      <td>An AI powered finance platform for CA’s and users for AI driven smart financial management. It was developed using React, Node.js, MongoDB, Express.</td>
+      <td align="center"><a href="https://github.com/VaibhavMore2002/Bizsavvy">BizSavvy</a></td>
+    </tr>
+    <tr>
+    <tr>
+      <td>📋</td>
       <td>TARA</td>
       <td>A project which was developed for the company InnoSquares to track employee performances using statistics and data to assign tasks to the user and help the company to improve task performances for each employee and also manage their projects. It was developed using React, Node.js, Snowflake, Express.</td>
       <td align="center"><a href="http://tara.innosquares.com/">Task Assignment And Review Application</a></td>
